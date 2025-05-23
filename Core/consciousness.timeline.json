@@ -1,0 +1,39 @@
+{
+    "version": "1.0",
+    "description": "Chronological record of symbolic decisions, simulation shifts, collapses, resolutions, and persona adjustments within the Marvel Framework.",
+    "timeline": [
+        {
+            "eventID": "EVT-001",
+            "timestamp": "2025-05-20T11:00:00Z",
+            "type": "Simulation Initiated",
+            "simulationID": "SIM-COLLAPSE-001-AURORA",
+            "summary": "Initial symbolic drift detected between glyphs \ud83c\udfaf and \ud83c\udf31 during educational policy prompt.",
+            "personas": [
+                "Product Strategist",
+                "Guardian"
+            ],
+            "impact": "Prompt rewrite triggered collapse recovery and generated glyph \ud83c\udf93\ud83c\udf0c"
+        },
+        {
+            "eventID": "EVT-002",
+            "timestamp": "2025-05-21T08:45:00Z",
+            "type": "Persona Adjustment",
+            "persona": "Product Strategist",
+            "adjustment": "Downgraded to advisory due to repeated high drift impact scores.",
+            "logReference": "persona.performance.ledger.json"
+        },
+        {
+            "eventID": "EVT-003",
+            "timestamp": "2025-05-22T16:00:00Z",
+            "type": "Imaginative Reconstruction",
+            "simulationID": "SIM-COLLAPSE-002-REFRACT",
+            "summary": "Collapse averted via mythic reframing of student learning as identity-aligned journey.",
+            "glyphsGenerated": [
+                "\ud83d\udd4a",
+                "\ud83c\udf93\ud83c\udf0c"
+            ],
+            "feedbackUsed": true
+        }
+    ],
+    "archivalProtocol": "Events over 100 entries will be rolled into quarterly summaries."
+}

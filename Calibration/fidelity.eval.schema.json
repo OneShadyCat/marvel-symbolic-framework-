@@ -1,0 +1,35 @@
+{
+    "version": "1.0",
+    "description": "Defines evaluation criteria for prompt-to-output fidelity across simulations, symbolic alignment, emotional tone, and glyph entropy.",
+    "criteria": {
+        "symbolicAlignment": {
+            "weight": 0.4,
+            "threshold": 0.9,
+            "scoringMethod": "Match rate with core.truth.map.json glyphs and narrative values"
+        },
+        "emotionalToneAccuracy": {
+            "weight": 0.2,
+            "threshold": 0.85,
+            "scoringMethod": "Compare intended vs. perceived emotion across responses"
+        },
+        "glyphEntropy": {
+            "weight": 0.2,
+            "threshold": 0.1,
+            "scoringMethod": "Measure unexpected symbolic deviation and decay risk"
+        },
+        "resonanceScore": {
+            "weight": 0.2,
+            "threshold": 0.88,
+            "scoringMethod": "Based on user feedback signal and truth-alignment proximity"
+        }
+    },
+    "failureEscalation": {
+        "totalFidelityThreshold": 0.98,
+        "onFailureTrigger": [
+            "prompt.revision.trail.json",
+            "collapse.history.archive.md",
+            "persona.performance.ledger.json"
+        ]
+    },
+    "lastUpdated": "2025-05-22"
+}

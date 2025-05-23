@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "description": "Voting weights and consensus logic for simulation persona teams across governance modes.",
+    "weights": {
+        "Constitutional": 1.2,
+        "Corporate": 1.0,
+        "Ideation": 0.8
+    },
+    "votingRules": {
+        "quorumRequirement": 0.66,
+        "vetoOverride": 0.75,
+        "symbolicConflictTrigger": 0.25
+    },
+    "roles": {
+        "Synthesizer": "Breaks tie with fusion logic",
+        "Guardian": "Vetoes on truth misalignment",
+        "Reframer": "Only participates post-collapse"
+    }
+}

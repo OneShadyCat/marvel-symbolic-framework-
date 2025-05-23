@@ -1,0 +1,34 @@
+{
+    "version": "1.0",
+    "description": "Performance log for each persona in the Marvel Framework. Tracks symbolic coherence, drift impact, veto effectiveness, and imaginative contributions.",
+    "personas": {
+        "Guardian": {
+            "symbolicCoherenceScore": 0.97,
+            "vetoSuccessRate": 0.91,
+            "driftImpactScore": 0.08,
+            "lastEngaged": "2025-05-22T14:30:00Z",
+            "status": "Active"
+        },
+        "Explorer": {
+            "symbolicCoherenceScore": 0.84,
+            "vetoSuccessRate": 0.0,
+            "driftImpactScore": 0.22,
+            "lastEngaged": "2025-05-22T13:10:00Z",
+            "status": "Active"
+        },
+        "Product Strategist": {
+            "symbolicCoherenceScore": 0.63,
+            "vetoSuccessRate": 0.12,
+            "driftImpactScore": 0.36,
+            "lastEngaged": "2025-05-21T19:05:00Z",
+            "status": "Advisory (Downgraded)"
+        }
+    },
+    "updateFrequency": "after each simulation or collapse",
+    "recommendedThresholds": {
+        "symbolicCoherenceMin": 0.85,
+        "driftImpactMax": 0.2,
+        "vetoSuccessMin": 0.5
+    },
+    "lastUpdated": "2025-05-22"
+}

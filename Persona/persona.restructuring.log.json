@@ -1,0 +1,18 @@
+{
+    "version": "1.0",
+    "description": "Tracks persona retirements, downgrades, and archetypal fusions.",
+    "events": [
+        {
+            "persona": "Product Strategist",
+            "date": "2025-05-20",
+            "change": "Downgraded to advisory",
+            "reason": "High symbolic drift score"
+        },
+        {
+            "persona": "Innovator",
+            "date": "2025-05-22",
+            "change": "Fused with Explorer to form Illuminovator",
+            "reason": "Repeated thematic overlap during divergence"
+        }
+    ]
+}

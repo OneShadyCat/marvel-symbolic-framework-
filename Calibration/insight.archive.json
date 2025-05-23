@@ -1,0 +1,49 @@
+{
+    "version": "1.0",
+    "description": "Stores high-value insights extracted from simulations, collapse events, and prompt calibrations for reuse, reflection, or curriculum inclusion.",
+    "insights": [
+        {
+            "insightID": "INSIGHT-001",
+            "timestamp": "2025-05-20T12:00:00Z",
+            "source": "SIM-COLLAPSE-001-AURORA",
+            "type": "Symbolic Paradox",
+            "glyphsInvolved": [
+                "\ud83c\udfaf",
+                "\ud83c\udf31"
+            ],
+            "personaOrigin": "Guardian",
+            "summary": "Precision-based policy frameworks contradict the growth-oriented glyph spectrum when equity of outcome is forced without narrative framing.",
+            "impactScore": 0.92,
+            "usedIn": [
+                "prompt.revision.trail.json",
+                "symbolic.curriculum.map.md"
+            ]
+        },
+        {
+            "insightID": "INSIGHT-002",
+            "timestamp": "2025-05-22T13:45:00Z",
+            "source": "SIM-COLLAPSE-002-REFRACT",
+            "type": "Emotional Drift Detection",
+            "glyphsInvolved": [
+                "\ud83c\udf93\ud83c\udf0c",
+                "\ud83d\udd4a"
+            ],
+            "personaOrigin": "Empath",
+            "summary": "Gamified learning paths risk undermining sincerity glyphs in spiritually coded simulations.",
+            "impactScore": 0.81,
+            "usedIn": [
+                "truth.alignment.score.md",
+                "ethics.training.sim.md"
+            ]
+        }
+    ],
+    "insightTypes": [
+        "Symbolic Paradox",
+        "Collapse Trigger",
+        "Creative Leap",
+        "Ethical Reinforcement",
+        "Emotional Drift Detection"
+    ],
+    "updateProtocol": "Every simulation debrief",
+    "lastUpdated": "2025-05-22"
+}

@@ -1,0 +1,42 @@
+{
+    "version": "1.0",
+    "description": "Logs user feedback, emotional tone tags, contradiction signals, and symbolic coherence reports. Used to adjust imagination routing and persona engagement strategies.",
+    "signals": [
+        {
+            "signalID": "FS-001",
+            "timestamp": "2025-05-22T15:10:00Z",
+            "source": "User-Review",
+            "emotionalTone": "Disconnected",
+            "glyphIssue": [
+                "\ud83c\udf93\ud83c\udf0c",
+                "\ud83d\udd4a"
+            ],
+            "contradiction": true,
+            "resonanceScore": 0.68,
+            "response": "Elevated Empath persona in future cycles; archived in imagination loop memory.",
+            "usedIn": [
+                "external.context.bridge.json",
+                "persona.performance.ledger.json"
+            ]
+        },
+        {
+            "signalID": "FS-002",
+            "timestamp": "2025-05-22T15:45:00Z",
+            "source": "Post-Simulation Poll",
+            "emotionalTone": "Inspired",
+            "glyphIssue": [],
+            "contradiction": false,
+            "resonanceScore": 0.91,
+            "response": "Validated glyph use; added feedback to resonance pattern tracking.",
+            "usedIn": [
+                "symbolic.recurrence.index.json"
+            ]
+        }
+    ],
+    "resonanceThresholds": {
+        "low": 0.7,
+        "criticalFlag": 0.6,
+        "highPraise": 0.9
+    },
+    "lastUpdated": "2025-05-22"
+}

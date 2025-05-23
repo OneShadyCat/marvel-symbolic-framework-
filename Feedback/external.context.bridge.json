@@ -1,0 +1,42 @@
+{
+    "version": "1.0",
+    "description": "External input handler used to adjust simulations, emotional scoring, routing logic, or prompt calibration. Accepts user feedback, tone reports, and contradiction signals.",
+    "inputs": [
+        {
+            "inputID": "EXT-001",
+            "source": "user-feedback",
+            "timestamp": "2025-05-22T15:00:00Z",
+            "emotionalTone": "Uninspired",
+            "contradictionDetected": true,
+            "glyphConflict": [
+                "\ud83c\udfaf",
+                "\ud83c\udf31"
+            ],
+            "impactWeight": 0.87,
+            "action": "Recalibrate simulation objectives toward growth symbolism and reduced precision logic",
+            "routedTo": [
+                "Prompt Calibration",
+                "Simulation Re-seed"
+            ]
+        },
+        {
+            "inputID": "EXT-002",
+            "source": "external-review",
+            "timestamp": "2025-05-22T15:40:00Z",
+            "emotionalTone": "Empathetic",
+            "contradictionDetected": false,
+            "glyphConflict": [],
+            "impactWeight": 0.45,
+            "action": "Boost Empath persona weighting in upcoming education simulations",
+            "routedTo": [
+                "Routing Engine"
+            ]
+        }
+    ],
+    "impactWeightThresholds": {
+        "high": 0.75,
+        "medium": 0.5,
+        "low": 0.25
+    },
+    "lastUpdated": "2025-05-22"
+}

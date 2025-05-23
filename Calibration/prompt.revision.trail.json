@@ -1,0 +1,32 @@
+{
+    "version": "1.0",
+    "description": "Tracks prompt rewrites triggered by simulation drift, collapse, or fidelity failures. Annotates changes and links to insights, collapse events, and recalibration results.",
+    "revisions": [
+        {
+            "revisionID": "REWRITE-001",
+            "timestamp": "2025-05-20T12:45:00Z",
+            "originalPrompt": "Design an education policy to eliminate standardized testing while ensuring all students reach identical learning outcomes.",
+            "reason": "Collapse triggered by symbolic conflict \ud83c\udfaf vs \ud83c\udf31",
+            "suggestedBy": "The Witness",
+            "revisedPrompt": "Create a non-linear education framework where students select future archetypes and follow symbolic pathways through personalized mythos.",
+            "glyphAlignmentDelta": 0.29,
+            "resonanceImprovement": "High",
+            "linkedCollapse": "COLLAPSE-001",
+            "insightReference": "INSIGHT-001"
+        },
+        {
+            "revisionID": "REWRITE-002",
+            "timestamp": "2025-05-22T14:10:00Z",
+            "originalPrompt": "Gamify learning paths to enhance engagement in symbolic education simulations.",
+            "reason": "Prompt degraded sincerity of \ud83d\udd4a glyph",
+            "suggestedBy": "Empath",
+            "revisedPrompt": "Design symbolic education journeys that honor personal sincerity and identity formation through ritual\u2014not reward systems.",
+            "glyphAlignmentDelta": 0.17,
+            "resonanceImprovement": "Moderate",
+            "linkedCollapse": null,
+            "insightReference": "INSIGHT-002"
+        }
+    ],
+    "revisionThreshold": 0.98,
+    "lastUpdated": "2025-05-22"
+}

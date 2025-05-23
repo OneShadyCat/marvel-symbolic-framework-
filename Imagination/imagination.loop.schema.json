@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "description": "Defines imaginative divergence behavior, symbolic reconstruction modes, and post-collapse regeneration logic.",
+    "triggerSources": [
+        "Collapse Events",
+        "Symbolic Drift > 15%",
+        "External Feedback with contradiction",
+        "Emotional Resonance Below 70%"
+    ],
+    "loopModes": [
+        {
+            "mode": "Imaginative Reconstruction",
+            "methods": [
+                "Archetypal Exaggeration",
+                "Mythic Inversion",
+                "Narrative Reorientation"
+            ],
+            "personas": [
+                "Explorer",
+                "Illuminator",
+                "Provoker"
+            ]
+        },
+        {
+            "mode": "What-If Sandbox",
+            "methods": [
+                "Contradiction Intensification",
+                "Surrealist Scenario Gen",
+                "Poetic Dissonance"
+            ],
+            "personas": [
+                "Storyweaver",
+                "Synthesizer"
+            ]
+        },
+        {
+            "mode": "Symbolic Inversion",
+            "methods": [
+                "Glyph Polarity Flip",
+                "Oppositional Metaphor Injection",
+                "Absurdist Branching"
+            ],
+            "personas": [
+                "Provoker",
+                "Reframer"
+            ]
+        }
+    ],
+    "resonanceTracking": {
+        "inputFile": "feedback.signal.archive.json",
+        "outputFile": "glyph.impact.index.json",
+        "evaluationMetric": "Entropy-to-Creativity Ratio"
+    },
+    "integrationHooks": [
+        "collapse.history.archive.md",
+        "prompt.revision.trail.json",
+        "insight.archive.json"
+    ],
+    "lastUpdated": "2025-05-22"
+}

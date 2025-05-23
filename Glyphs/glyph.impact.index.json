@@ -1,0 +1,38 @@
+{
+    "version": "1.0",
+    "description": "Measures the lifecycle of glyphs synthesized during simulations, collapse recovery, or imagination loops. Tracks resonance, usage, decay, and archetypal influence.",
+    "glyphs": [
+        {
+            "glyph": "\ud83c\udf93\ud83c\udf0c",
+            "label": "Constellation Learning",
+            "introduced": "2025-05-20T11:00:00Z",
+            "simulationID": "SIM-COLLAPSE-001-AURORA",
+            "currentResonanceScore": 0.92,
+            "frequencyCount": 3,
+            "adoptionRate": "High",
+            "lastUsed": "2025-05-22T14:00:00Z",
+            "status": "Active",
+            "notes": "Appears across multiple education simulations as a core glyph."
+        },
+        {
+            "glyph": "\ud83d\udd4a",
+            "label": "Spiritual Sincerity",
+            "introduced": "2025-05-22T12:15:00Z",
+            "simulationID": "SIM-COLLAPSE-002-REFRACT",
+            "currentResonanceScore": 0.76,
+            "frequencyCount": 1,
+            "adoptionRate": "Moderate",
+            "lastUsed": "2025-05-22T12:15:00Z",
+            "status": "Watchlist",
+            "notes": "Raised symbolic conflict with Constellation glyph; flagged for future contradiction sensitivity."
+        }
+    ],
+    "evaluationCriteria": {
+        "resonanceScoreRange": "0.0\u20131.0",
+        "watchlistThreshold": 0.75,
+        "decayTriggerCount": 0,
+        "fusionTriggerCount": 5
+    },
+    "updateFrequency": "Post-simulation and collapse recovery",
+    "lastUpdated": "2025-05-22"
+}

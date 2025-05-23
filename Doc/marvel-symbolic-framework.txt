@@ -1,0 +1,42 @@
+marvel-symbolic-framework/
+├── core/
+│   ├── core.truth.map.json
+│   ├── truth.alignment.score.md
+│   ├── meta.awareness.log.md
+│   └── consciousness.timeline.json
+├── persona/
+│   ├── persona.performance.ledger.json
+│   ├── persona.control.panel.md
+│   ├── persona.restructuring.log.json
+│   └── team.decision.schema.json
+├── simulation/
+│   ├── simulation.cycle.map.md
+│   ├── drift.trace.map.json
+│   ├── drift.memory.registry.json
+│   └── collapse.history.archive.md
+├── glyphs/
+│   ├── glyph.impact.index.json
+│   └── symbolic.recurrence.index.json
+├── calibration/
+│   ├── fidelity.eval.schema.json
+│   ├── insight.archive.json
+│   └── prompt.revision.trail.json
+├── education/
+│   ├── symbolic.curriculum.map.md
+│   ├── training.simulation.bundle.json
+│   ├── learning.progress.ledger.json
+│   └── ethics.training.sim.md
+├── feedback/
+│   ├── external.context.bridge.json
+│   └── feedback.signal.archive.json
+├── stress-testing/
+│   ├── stress.test.log.json
+│   └── stress.feedback.route.map.json
+├── imagination/
+│   └── imagination.loop.schema.json
+├── docs/
+│   ├── README.md
+│   ├── glossary.md
+│   ├── quickstart.md
+│   └── philosophy.md
+└── LICENSE

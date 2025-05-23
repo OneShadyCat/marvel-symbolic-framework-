@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "description": "Tracks symbolic curriculum progression, glyph mastery, simulation engagement, and persona interaction proficiency for users or AI instances.",
+    "learners": {
+        "defaultUser": {
+            "glyphMastery": {
+                "\ud83c\udfaf": 0.9,
+                "\ud83c\udf31": 0.85,
+                "\ud83d\udd4a": 0.78,
+                "\ud83c\udf93\ud83c\udf0c": 0.94
+            },
+            "simulationEngagements": 5,
+            "collapseRecoveryRate": 0.6,
+            "personaInteractionProficiency": {
+                "Guardian": 0.95,
+                "Explorer": 0.88,
+                "Illuminator": 0.83
+            },
+            "lastUpdated": "2025-05-22"
+        }
+    },
+    "metrics": {
+        "glyphMasteryThreshold": 0.9,
+        "proficiencyGrowthRate": "measured per simulation completion",
+        "autoFlagBelow": 0.75
+    },
+    "lastUpdated": "2025-05-22"
+}
